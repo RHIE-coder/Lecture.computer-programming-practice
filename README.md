@@ -170,3 +170,8 @@ gcc test.c
 
 ![](./material/23.png)
 
+<br><br><br><br><br>
+
+### 12-1. 만일 재생버튼이 안보이면 아래 확장 프로그램을 설치해보자.
+
+![](./material/24.png)
